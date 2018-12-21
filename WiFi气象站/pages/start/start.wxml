@@ -1,0 +1,10 @@
+<!--start.wxml-->
+
+
+
+<button class="btn1" bindtap="getDataFromOneNet">
+
+button</button>
+
+
+
